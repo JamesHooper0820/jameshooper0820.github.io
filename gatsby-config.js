@@ -12,7 +12,7 @@ module.exports = {
     siteTitleAlt: `James Hooper • York, UK`,
   },
   
-  pathPrefix: "/jameshooper0820.github.io",
+  pathPrefix: "/",
   
   plugins: [
     {
