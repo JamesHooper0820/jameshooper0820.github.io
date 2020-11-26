@@ -11,9 +11,6 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `James Hooper • York, UK`,
   },
-  
-  pathPrefix: "/",
-  
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
